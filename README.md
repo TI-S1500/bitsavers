@@ -1,6 +1,6 @@
 # bitsavers
 
-[TI S1500 / HP 9000-1500] Mirror of relevant [bitsavers.org](http://bitsavers.org/) files (public)
+[TI S1500 / HP 9000-1500] Mirror of relevant bitsavers.org files (public)
 
 ## Contents
 
