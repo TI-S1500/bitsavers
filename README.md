@@ -6,11 +6,11 @@
 
 ### Bits
 
-* [Tapes](bits/S1500/tapes)
-* [s1505_cp3540](/bits/S1500/s1505_cp3540) (image)
+* [Tapes](bits/S1500/tapes) (tape images)
+* [s1505_cp3540](/bits/S1500/s1505_cp3540) (disk image)
 
 ### Docs
 
-* [S1500](/pdf/1500)
 * [NuBus](/pdf/nubus)
+* [TI S1500](/pdf/1500)
 * [TI Explorer](/pdf/explorer)
