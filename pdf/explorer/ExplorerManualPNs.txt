@@ -1,0 +1,75 @@
+Document                                                                TI Part Number
+--------------------------------------------------------------------------------------
+Explorer Backplane Specification (Local Bus & NuBus)                    2235539-0001
+Explorer I Processor Auxiliary Board Assembly                           2236405-0001
+Explorer I Processor Auxiliary Board Logic Diagram                      2236407-0001
+Explorer I Processor Specification                                      2236414-0001
+
+NuBus Specification                                                     2242825-0001 ?  ?-?? *
+
+Explorer Glossary                                                       2243134-0001 A  6-87 *
+Explorer 7-Slot System Installation                                     2243140-0001
+Explorer System Field Maintenance                                       2243141-0001 A  8-86 *
+Explorer 7-Slot System Enclosure General Description                    2243143-0001
+Explorer Processor General Description                                  2243144-0001 A 10-85 *
+Explorer System Interface General Description                           2243145-0001 A 10-85 *
+Explorer NuBus Peripheral Interface General Description (NUPI board)    2243146-0001 B  8-86 *
+Explorer Mass Storage Enclosure General Description                     2243148-0001
+Explorer Display Unit General Descripion                                2243151-0001 A  6-86 *
+Explorer NuBus Ethernet Controller General Description                  2243161-0001 A  1-87 *
+Explorer Technical Summary                                              2243189-0001 D  8-88 *
+Introduction to the Explorer System                                     2243190-0001 D 12-87 *
+Explorer Zmacs Editor Tutorial                                          2243191-0001
+Explorer Zmacs Editor Reference                                         2243192-0001 A  6-87 *
+Explorer Master Index to Software Manual                                2243198-0001 B  1-88 *
+
+Explorer Grasper User's Guide                                           2243135-0001
+
+Explorer Window System Reference                                        2243200-0001 B 12-87 *
+Explorer Lisp Reference                                                 2243201-0001 ? ??-?? *
+Explorer Natural Language Manual System User's Guide                    2243202-0001    6-85 *
+Explorer Relational Table Management System User's Guide                2243203-0001
+Explorer System Software Intallation Guide                              2243205-0001 F  6-88 * R4.1
+Explorer Networking Reference                                           2243206-0001 B  6-87 *
+Explorer System Software Design Notes                                   2243208-0001 A  6-87 *
+
+Explorer I Processor Two-Board Assembly                                 2243881-0001
+Explorer I Processor Main Board Assembly                                2243895-0001
+Explorer I Processor Main Board Logic Diagram                           2243897-0001
+
+32-Bit Lisp Microprocessor Specification                                2248114-0001
+
+Explorer Natural Language Menu System Rel and Install Info Rel 2.0      2249971-9901 A  3-86 *
+
+Explorer Diagnostics                                                    2533554-0001 F 12-87 *
+Explorer Memory General Description (8-megabytes)                       2533592-0001
+
+System 1500 Backplane Specification (NuBus Only)                        2535855-0001
+
+Explorer Color Graphics User's Guide                                    2537???-0001
+Explorer TCP/IP User's Guide                                            2537150-0001
+Programming in Prolog Book                                              2537157-0001
+Explorer NuBus System Architecture General Description                  2537171-0001
+Explorer System Field Maintenance Supplement                            2537183-0001 B  1-88 *
+Explorer 32-Megabyte Memory General Description                         2537185-0001
+Explorer II Processor and Auxiliary Processor Options General Descption 2537187-0001
+Explorer DECnet User's Guide                                            2537223-0001
+Explorer LX User's Guide                                                2537225-0001
+Explorer LX System Installation                                         2537227-0001
+68020-Based Processor General Description                               2537240-0001
+Communications Carrier Board and Options General Description            2537242-0001
+Explorer Prolog User's Guide                                            2537248-0001
+Personal Consultant Plus Explorer                                       2537259-0001
+
+Explorer II Processor Board Assembly                                    2540830-0001
+Explorer II Processor Board Logic Diagram                               2540832-0001
+Explorer II Processor Board Specification                               2540834-0001
+
+Explorer NFS User's Guide                                               2546890-0001
+
+Explorer Input/Output Reference                                         2549281-0001
+
+Explorer Programming Concepts                                           2549830-0001 A 12-87 *
+Explorer Tools and Utilities                                            2549831-0001 A 10-87 *
+Release Information, Explorer System Software                           2549844-0001 C  6-88 * R4.1
+
